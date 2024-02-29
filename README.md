@@ -10,7 +10,7 @@ I am a recent graduate passionate about web development. I love to develop innov
 * 🖥️  See my portfolio at [portfolioOfPartha](http://portfolio-of-partha.netlify.app/)
 * ✉️  You can contact me at [spartha343@gmail.com](mailto:spartha343@gmail.com)
 * 🧠  I'm learning Error Handling
-* ⚡  I am a MERN Developer and it's a open secret.
+* ⚡  Link to my [Resume](https://drive.google.com/file/d/1eCml9Vimd_etkNklfAvUvY7O7M5IQrTD/view?usp=sharing)
 
 ### Skills
 
